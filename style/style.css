@@ -1,6 +1,21 @@
+h3{
+    color: blue;
+    text-align: center;
+    font-size: xx-large;
+}
 p{
-    background-color: tomato;
     text-align: justify;
-    size: 30px;
-    color: blueviolet;
+    font-size: larger;
+    background-color: cadetblue;
+    color: black;
+    border: 10px solid tomato;
+    padding: 20px;
+    border-radius: 10px;  
+}
+
+
+ol{
+    font-size: 20px;
+    background-color: aqua;
+    text-shadow:rgb(255, 0, 85);
 }
